@@ -9,4 +9,4 @@ outputs:
 - rss
 - json
 ---
-Proven Software Platform Engineer with experience leveraging agile, DevOps, and CI/CD to manage large scale distributed platforms both on prem and in public cloud.
+Full Stack Software Engineer and Architect.  Loves C#, web technologies, databases, and solving business problems using the appropriate technology.

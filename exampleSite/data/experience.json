@@ -1,20 +1,65 @@
 [
     {
-        "role":"Boss man",
-        "company":"Current Company LTD",
-        "summary":"Led in development of fast paced software teams.\n- list\n- of\n- things",
-        "range":"February 2016 - Present"
+        "role":"Senior Software Engineer",
+        "company":"Fire Engine Red, LLC",
+        "summaryItems":["Implemented AWS Lambda functions in C# (.Net Core) to handle data imports quickly.",
+            "Used SQS messages to spawn other lambdas.",
+            "Monitored and increased performance via logging and dashboards.",
+            "Implemented AWS CloudFormation templates for deployment and config changes",
+            "Used AWS S3 as our data store, and Cloudwatch for dashboards and events",
+            "Updated Laravel PHP code to integrate with AWS Lambda functions",
+            "Managed offshore developer tasks, and trained new employee"],
+        "range":"9/2019 - Current"
     },
     {
-        "role":"Developer",
-        "company":"Current Company LTD",
-        "summary":"Expedited the synergies of collaborative agile tooling.",
-        "range":"March 2014 - February 2016"
+        "role":"Senior Software Consultant",
+        "company":"ECS Team/CGI",
+        "summaryItems":["Responsible for MVC and Web API development using C#, Entity Framework, bootstrap, jquery, knockout.js, and LESS style sheets at a large telecommunications firm.",
+            "Primary concerns were migration from a windows application to Web based application, performance issues, localization, migrating custom logic to database driven design, and troubleshooting any issues. "," Helped migrate applications from knockout.js to Angular 1.x, and from Angular 1.x to Angular 7, typescript, and node.js ","Researched and deployed Pivotal Cloud foundry platform to foster faster feedback loops and quicker deployments.","Guided several teams to abandon database table copying in favor of a MongoDB instance with shared documents ","Improved performance of multiple applications from minutes to seconds by profiling, threading, caching, combining calls, and requesting data in bulk."],
+        "range":"9/2014 to 8/2019"
     },
     {
-        "role":"Developer",
-        "company":"Previous Company Inc.",
-        "summary":"Implemented continuous devops pipelines automationing",
-        "range":"February 2013 - March 2014"
+        "role":"Software Engineering Manager",
+        "company":"Godaddy.com",
+        "summaryItems":["Managed a team of 4 developers working on the shopping cart and single sign on applications","Managed and was scrum master for a team of 10 contractors tasked with internationalizing www.godaddy.com","Led process improvement by avoiding hard coding in favor of dynamic configuration of payment methods, affiliate integration, and tool creation to automate daily tasks.","Created and updated several sites as marketing needs changed","Used CSS3, HTML5, jQuery, C#, web services, TDD, TFS, and MVC"],
+        "range":"11/2009 to 5/2014"
+    },
+    {
+        "role":"Senior Software Consultant",
+        "company":"Statera",
+        "summaryItems":["Designed application to move aluminum cans from a stacker to a bay location during JD Edwards order workflow","Modified InfoPath SharePoint form to track inventory","Used nHibernate, WCF, C#, CVS, Agile"],
+        "range":"9/2009 – 10/2009"
+    },
+    {
+        "role":"Software Engineering Manager",
+        "company":"Kinetic Concepts, Inc",
+        "summaryItems":["I managed the entire software development lifecycle of a software team containing 6 developers and 2 Business Analysts, with a 1 million dollar budget.",
+        "We tracked inventories, customers, rentals, and sales using a Powerbuilder application and a C# Pocket PC application",
+        "Started the migration from Powerbuilder to asp.net, using a common framework that several development teams could use, and implemented caching to speed up frequently accessed queries"],
+        "range":"12/2005 to 6/2006"
+    },
+    {
+        "role":"Senior Software Consultant",
+        "company":"Y&L Consulting",
+        "summaryItems":["Installed, Customized SharePoint instance for intranet reporting","Coded a 3 tier custom CRM for managing workflow of delivering power wheelchairs to customers","Used C#, ASP.Net, ASP, WCF, TDD, SharePoint Web Parts"],
+        "range":"6/2006 – 9/2009, 7/2005 – 12/2005"
+    },
+    {
+        "role":"Software Team Lead",
+        "company":"Pricewatch.com",
+        "summaryItems":["Championed effort to make pricewatch.com dynamic instead of static.","Decreased site delay from 4 hours to 15 minutes.","Used C#, ASP.Net, ADO.Net, SQL Server"],
+        "range":"3/2004 – 2/2005"
+    },
+    {
+        "role":"Software Team Lead, Senior Developer",
+        "company":"Intel Corporation",
+        "summaryItems":["Co-author of IETF drafts for iSNS and iSCSI MIB,","Wrote a Management application to configure iSCSI targets in Windows and Linux","Helped train 12 Russian software engineers on different tools, processes, integration","Led an internal consulting team tasked with delivering a training application with offline and online states","Wrote our own web server to consolidate client information into administrator console","Used MFC, ActiveX, COM, Sockets, CIM, WMI, Oracle, DTS, Visio, TCP"],
+        "range":"10/1995 – 3/2004"
+    },
+    {
+        "role":"Software Engineer",
+        "company":"Brigham Young University",
+        "summaryItems":["Wrote COBOL software to access Ingris database for travel and student financial info"],
+        "range":"5/1995 – 10/1995"
     }
 ]

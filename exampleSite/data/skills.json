@@ -1,32 +1,40 @@
 [
   {
-      "grouping":"Architecture",
-      "skills":[ "IP Networking","DNS","Firewalls","Load Balancing","Microservices","RESTful APIs","SaaS/PaaS/IaaS"]
-  },{
-      "grouping":"Languages, Operating Systems & Tools",
-      "skills":[ "Java","Python","git","subversion","linux","bash","php","jquery","javascript"]
+    "grouping":"Web technologies",
+    "skills":[ "jQuery", "Bootstrap", "Knockout", "AngularJS", "Angular", "typescript"]
+},
+  {
+      "grouping":"Programming Languages",
+      "skills":[ "C#","C++","VB","C","Java","javascript","PHP", "COBOL"]
   },
   {
-      "grouping":"Platform Development & Administration",
-      "skills":[ "Atlassian","Bamboo","Bitbucket","NGINX","MySQL","Wordpress"]
+      "grouping":"Frameworks & Tools",
+      "skills":[ "ASP.NET Core","Nodejs","Visual Studio","git","subversion", "Entity Framework", "Visual Studio Code"]
   },
   {
-      "grouping":"Data Management",
+      "grouping":"Data Stores",
       "skills":[
         {"name":"Microsoft SQL Server","icon":"msql_server"},
         {"name":"Oracle","icon":"database"},
         "MongoDB",
-        {"name":"Apache Spark"}
+        "MySql"
       ]
   },
   {
-    "grouping":"Containers & Cloud",
+    "grouping":"Cloud",
       "skills":[
-          {"name":"BOSH","link":"https://bosh.io"},
-          {"name":"Docker","link":"https://docker.com"},
           {"name":"AWS","link":"https://aws.amazon.com"},
-          {"name":"Google Cloud","link":"https://cloud.google.com"},
-          {"name":"Linux","link":"https://bosh.io"}
+          {"name":"Docker","link":"https://docker.com"},
+          {"name":"Sharepoint", "link":"https://www.microsoft.com/en-us/microsoft-365/sharepoint/collaboration"},
+          {"name":"Sitecore", "link":"https://www.sitecore.com/"}
       ]
+  },
+  {
+    "grouping":"Solutions Architecture",
+    "skills":[ "Web Services","REST Apis","Serverless compute", "MVC", "MVVM", "WCF" ]
+  },
+  {
+    "grouping":"Windows/embedded development",
+    "skills":[ "Win32", "MFC","COM", "drivers", "services", "WMI Instrumentation", "firmware" ]
   }
 ]
